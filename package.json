@@ -12,7 +12,7 @@
   "keywords": ["risk-of-ruin", "monte-carlo", "drawdown", "position-sizing", "trading", "fixed-fractional", "simulation", "forex"],
   "license": "MIT",
   "engines": { "node": ">=14" },
-  "repository": { "type": "git", "url": "git+https://github.com/pipatlas/risk-of-ruin.git" },
+  "repository": { "type": "git", "url": "git+https://github.com/pipatlas26/risk-of-ruin.git" },
   "homepage": "https://pipatlas.com/tools/risk-of-ruin",
   "files": ["risk-of-ruin.js", "README.md", "LICENSE"]
 }
